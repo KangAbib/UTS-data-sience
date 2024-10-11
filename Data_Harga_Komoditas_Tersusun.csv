@@ -1,0 +1,19 @@
+KOMODITAS;SAT;HET/HAP;Harga Rata2 7 Hari Terakhir (Rp);Harga Sebelumnya (Rp);Harga Terkini (Rp);Harga Terkini thd Sebelumnya;Rasio Harga Terkini thd HET/HAP;Indikator SPHP Harga Terkini;Indikator SPHP rata2 7hr
+Beras Premium;Kg;14,9;14,82;14,833;14,778;TURUN;-0.8%;AMAN;AMAN
+Beras Medium;Kg;12,5;12,444;12,444;12,444;SAMA;-0.4%;AMAN;AMAN
+Gula Pasir/Konsumsi;Kg;17,5;16,555;16,555;16,555;SAMA;-5.4%;AMAN;AMAN
+Minyak Goreng Kms. Sederhana;Ltr;15,7;16,544;16,651;16,651;SAMA;6.1%;WASPADA;WASPADA
+Minyak Goreng Curah;Ltr;15,7;16,504;16,49;16,49;SAMA;5.0%;WASPADA;WASPADA
+Daging Sapi Murni;Kg;140;107,778;107,778;107,778;SAMA;-23.0%;AMAN;AMAN
+Daging Ayam Ras;Kg;36,75;30,38;31,08;31,08;SAMA;-15.4%;AMAN;AMAN
+Telur Ayam Ras;Kg;27;25,448;25,305;25,25;TURUN;-6.5%;AMAN;AMAN
+Bawang Merah;Kg;41,5;24,687;24,778;24,721;TURUN;-40.4%;AMAN;AMAN
+Bawang Putih Bonggol;Kg;32;35,781;35,829;35,829;SAMA;12.0%;WASPADA;WASPADA
+Cabai Merah Besar;Kg;55;18,738;18,667;18,167;TURUN;-67.0%;AMAN;AMAN
+Cabai Merah Keriting;Kg;55;18,124;18,39;18,056;TURUN;-67.2%;AMAN;AMAN
+Cabai Rawit Merah;Kg;57;36,932;39,404;40,454;NAIK;-29.0%;AMAN;AMAN
+Kedelai Biji Kering (Impor);Kg;12;10,05;10,117;10,117;SAMA;-15.7%;AMAN;AMAN
+Jagung Pipilan Kering;Kg;5;5,85;5,85;5,85;SAMA;17.0%;WASPADA;WASPADA
+Tepung Terigu (Curah);Kg;11;9,365;9,444;9,444;SAMA;-14.1%;AMAN;AMAN
+Kentang;Kg;null;16,953;16,75;16,417;TURUN;null;#N/A;#N/A
+Tomat;Kg;null;6,286;6,417;6,583;NAIK;null;#N/A;#N/A
